@@ -1,0 +1,24 @@
+rodada: teste = sujeito 1
+rodada: teste = sujeito 2
+rodada: teste = sujeito 3
+rodada: teste = sujeito 4
+rodada: teste = sujeito 5
+rodada: teste = sujeito 6
+rodada: teste = sujeito 7
+rodada: teste = sujeito 8
+rodada: teste = sujeito 9
+rodada: teste = sujeito 10
+
+ sujeito    FBCCA    C-CNN
+       1    48.9%    87.2%
+       2    47.8%    52.8%
+       3    74.4%    93.3%
+       4    97.2%    99.4%
+       5    95.6%    97.8%
+       6    99.4%   100.0%
+       7    94.4%    99.4%
+       8   100.0%    99.4%
+       9    98.3%   100.0%
+      10    89.4%    95.0%
+   média    84.6%    92.4%
+     ITR    58.3     70.5   bits/min  (janela 2.0 s)

@@ -1,0 +1,9 @@
+  treino levou 40 s
+
+ sujeito    FBCCA    C-CNN
+       9    73.3%    86.7%
+      10    54.4%    70.6%
+   média    63.9%    78.6%
+     ITR    55.7     83.8   bits/min  (janela 1.0 s)
+
+modelo salvo em modelo.pt
